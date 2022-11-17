@@ -1,9 +1,9 @@
-# file-explorer-in-cpp
+# File-explorer-in-cpp
 Advanced OS
 
-# Objective:
+## Objective:
 Build a fully functional File Explorer Application, with a restricted feature set.
-# Prerequisites:
+## Prerequisites:
 1. Basic usage and architectural know-how of file explorer features
 2. Preliminaries such as C/C++ code compilation, execution & debugging.
 ## Functionalities:
